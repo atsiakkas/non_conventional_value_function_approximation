@@ -50,7 +50,7 @@ pip install -e .
 
 ## Project
 
-https://github.com/atsiakkas/rl_vfa<br/>
+https://github.com/atsiakkas/non_conventional_value_function_approximation<br/>
 <br/>
 
 
