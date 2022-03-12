@@ -1,6 +1,6 @@
 # Non-conventional Value Function Approximation methods in Reinforcement Learning
 
-This project evaluates and compares different approaches to function approximation in Reinforcement Learning.
+This project evaluates and compares different value function approximation methods in Reinforcement Learning.
 
 ### Function approximation models evaluated
   1. Neural Network
