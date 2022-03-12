@@ -56,11 +56,30 @@ https://github.com/atsiakkas/non_conventional_value_function_approximation<br/>
 
 ## Contents
 
-**agents**: Defines the classes of the RL agents: DQNAgent, LinearAgent, FQIAgent, OnlineGaussianProcessAgent
+**agents**: Defines the classes of the RL agents: 
+ - DQNAgent
+ - LinearAgent
+ - FQIAgent
+ - OnlineGaussianProcessAgent
 
-**custom_envs**: Defines the classes of the custom environments: SimpleGridworld, Windygridworld
+**custom_envs**: Defines the classes of the custom environments:
+ - SimpleGridworld
+ - Windygridworld
 
-**function_approximators**: Defines the classes of the function approximation models and of the replay buffer: ParametricModel, NeuralNetwork, LinearModel, NonParametricModel, DecisionTree, RandomForest, ExtraTrees, GradientBoostingTrees, SupportVectorRegressor, KNeighboursRegressor, GaussianProcess, eGaussianProcess, OnlineGaussianProcess
+**function_approximators**: Defines the classes of the function approximation models:
+ - ParametricModel
+ - NeuralNetwork
+ - LinearModel
+ - NonParametricModel
+ - DecisionTree
+ - RandomForest
+ - ExtraTrees
+ - GradientBoostingTrees
+ - SupportVectorRegressor
+ - KNeighboursRegressor
+ - GaussianProcess
+ - eGaussianProcess
+ - OnlineGaussianProcess
 
 **plots**: Scripts (jupyter notebooks) for producing the plots used in the report and saved plots.
 
