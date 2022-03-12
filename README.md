@@ -36,12 +36,12 @@ source [name_of_venv]/bin/activate
 
 Clone repository:
 ```
-git clone https://github.com/atsiakkas/rl_vfa.git
+git clone https://github.com/atsiakkas/non_conventional_value_function_approximation.git
 ```
 
 Install requirements:
 ```
-cd rl_vfa
+cd non_conventional_value_function_approximation
 pip install -e .
 ```
 <br/>
